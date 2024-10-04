@@ -1,5 +1,3 @@
-## Hi there 👋
-
 I like doing useful things. Interested in math, statistics, programming, biology and their unions, intersections, and applications.
 
 Previously I designed and trained neural networks to learn features of the human genome that control gene expression relevant to Alzheimer's Disease 🧠
