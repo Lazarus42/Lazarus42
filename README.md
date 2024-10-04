@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I like doing useful things. Interested in math, statistics, programming, biology and their unions, intersections, and applications.
+
+Previously I designed and trained neural networks to learn features of the human genome that control gene expression relevant to Alzheimer's Disease 🧠
+
+Currently working on showing that seed-chain-extend, a popular alignment method, is accurate under realistic conditions (insertions, deletions, and substitions) and runs in quasilinear time.
+
+See my written thoughts on my [personal blog](https://spencergibson26.notion.site/cfe9bf09ada84dc795696f1445fa4535?v=239ccc4e571446fc90a423980182349e&pvs=4).
+
 <!--
 **Lazarus42/Lazarus42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
