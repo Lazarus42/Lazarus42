@@ -1,8 +1,6 @@
-I'm interested in math, statistics, programming, biology and their unions, intersections, and applications.
+I'm currently interested in technical AI development and alignment.
 
-Previously I designed and trained neural networks to learn features of the human genome that control gene expression relevant to Alzheimer's Disease 🧠
-
-Currently working on showing that seed-chain-extend, a popular alignment method, is accurate under realistic conditions (insertions, deletions, and substitions) and runs in quasilinear time.
+Previously, I designed and trained neural networks in the Pfenning Lab at Carnegie Mellon to learn features of the human genome that control gene expression relevant to Alzheimer's Disease 🧠. I also worked with Yun William Yu to show that seed-chain-extend, a popular alignment heuristic, is accurate under realistic conditions (insertions, deletions, and substitions) and runs in quasilinear time.
 
 <!--
 **Lazarus42/Lazarus42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
