@@ -1,4 +1,4 @@
-I'm currently interested in technical AI development/alignment and applying computational tools to solve biological problems.
+I'm interested applying computational tools to solve biological problems.
 
 Previously, I designed and trained neural networks in the Pfenning Lab at Carnegie Mellon to learn features of the human genome that control gene expression relevant to Alzheimer's Disease 🧠. I also worked with Yun William Yu to show that seed-chain-extend, a popular alignment heuristic, is accurate under realistic conditions (insertions, deletions, and substitions) and runs in quasilinear time.
 
